@@ -13,4 +13,7 @@ pub mod votedapp {
 }
 
 #[derive(Accounts)]
-pub struct Initialize {}
+pub struct Initialize<'info> {
+    #[account(mut)]
+    pub signer: Signer<'info>,
+}

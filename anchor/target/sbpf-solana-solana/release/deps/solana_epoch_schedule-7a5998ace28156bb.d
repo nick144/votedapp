@@ -1,0 +1,8 @@
+/home/docsonic47/workstation/Solana/vote-dapp/anchor/target/sbpf-solana-solana/release/deps/libsolana_epoch_schedule-7a5998ace28156bb.rmeta: /home/docsonic47/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-epoch-schedule-2.2.1/src/lib.rs /home/docsonic47/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-epoch-schedule-2.2.1/src/sysvar.rs
+
+/home/docsonic47/workstation/Solana/vote-dapp/anchor/target/sbpf-solana-solana/release/deps/libsolana_epoch_schedule-7a5998ace28156bb.rlib: /home/docsonic47/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-epoch-schedule-2.2.1/src/lib.rs /home/docsonic47/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-epoch-schedule-2.2.1/src/sysvar.rs
+
+/home/docsonic47/workstation/Solana/vote-dapp/anchor/target/sbpf-solana-solana/release/deps/solana_epoch_schedule-7a5998ace28156bb.d: /home/docsonic47/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-epoch-schedule-2.2.1/src/lib.rs /home/docsonic47/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-epoch-schedule-2.2.1/src/sysvar.rs
+
+/home/docsonic47/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-epoch-schedule-2.2.1/src/lib.rs:
+/home/docsonic47/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-epoch-schedule-2.2.1/src/sysvar.rs:
